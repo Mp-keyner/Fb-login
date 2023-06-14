@@ -65,11 +65,11 @@ export function Login() {
 
   return (
     <>
-      <div className=" flex">
-        <div className="bg-hero">
+      <div className=" flex w-[100%]">
+        <div className="bg-hero w-[50%]">
           {/* <img src={biciWeb} alt="" /> */}
         </div>
-        <div>
+        <div className="w-[50%]">
           <div>
             <img src="" alt="" />
             <p>In charge of <span>KODH&copy;</span></p>
